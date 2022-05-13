@@ -1,0 +1,5 @@
+CRUD de Cadastro de Clientes
+
+Para fazer o programa funcionar, precisa ter o Xampp com Apache e PHP. Já o banco de dados utilizado foi o Postgress, que também é interessante que tenha na máquina que for mexer no programa.
+
+Neste momento, o projeto não edita, não busca e nem apaga cadastros.
